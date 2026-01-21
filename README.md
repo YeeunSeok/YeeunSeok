@@ -12,8 +12,6 @@
 
 확장 가능한 시스템과 효율적인 아키텍처를 추구하는 백엔드 개발자 석예은입니다!
 
-<br/>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -30,7 +28,6 @@
 | **Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
 
 ---
-<br/>
 
 ### 🐍 Contribution Snake
 
@@ -44,5 +41,5 @@
 
 ### 📫 Contact
 
-**Email**: yesdev.ready@gmail.com
+**Email**: yesdev.ready@gmail.com </br>
 **GitHub**: [github.com/YeeunSeok](https://github.com/YeeunSeok)
