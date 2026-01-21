@@ -8,11 +8,7 @@
 
 </div>
 
-<br/>
-
-## 🚀 About Me
 확장 가능한 시스템과 효율적인 아키텍처를 추구하는 백엔드 개발자 석예은입니다.
-
 
 <br/>
 
@@ -60,11 +56,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YeeunSeok&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=333333&text_color=333333)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YeeunSeok&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=333333&text_color=333333&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeunSeok&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YeeunSeok&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=333333&fire=333333&currStreakLabel=333333&sideNums=333333&currStreakNum=333333&dates=666666&sideLabels=333333&stroke=333333)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=YeeunSeok&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=333333&fire=333333&currStreakLabel=333333&sideNums=333333&currStreakNum=333333&dates=666666&sideLabels=333333&stroke=333333)
 
 </div>
 
