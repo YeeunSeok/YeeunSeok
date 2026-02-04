@@ -41,5 +41,5 @@
 
 ### 📫 Contact
 
-**Email**: yesdev.ready@gmail.com </br>
+**Email**: yes3641@naver.com </br>
 **GitHub**: [github.com/YeeunSeok](https://github.com/YeeunSeok)
